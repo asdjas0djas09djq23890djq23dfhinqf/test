@@ -3,6 +3,6 @@ public class Main {
         System.out.print("askdasdasdoasdasduasdas;");
         System.out.println("this is the other partner adding some code");
         System.out.println("whats up");
-        System.out.println("qt");
+        System.out.println("cutie");
     }
 }
