@@ -3,7 +3,7 @@ public class Main {
         System.out.print("our first shared repo");
         System.out.println("this is the other partner adding some code");
         System.out.println("whats up");
-        System.out.println("balls");
+        System.out.println("qt");
     }
 
 }
